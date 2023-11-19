@@ -1,4 +1,6 @@
-var express = require('express');
+import express from 'express';
+
+
 var app = express();
 const port=5000
 const uniqid = require('uniqid');
